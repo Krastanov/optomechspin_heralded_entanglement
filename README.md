@@ -7,7 +7,7 @@ Main content:
 
 Can be found at:
 
-- Repository [`github.com/Krastanov/optomechspin_heralded_entanglement`](github.com/Krastanov/optomechspin_heralded_entanglement)
-- Interactive at [`pluto.krastanov.org/two-mode-squeeze-herald.html`](pluto.krastanov.org/two-mode-squeeze-herald.html)
+- Repository [`github.com/Krastanov/optomechspin_heralded_entanglement`](https://github.com/Krastanov/optomechspin_heralded_entanglement)
+- Interactive at [`pluto.krastanov.org/two-mode-squeeze-herald.html`](https://pluto.krastanov.org/two-mode-squeeze-herald.html)
 - Archived together with the publication
 
